@@ -21,7 +21,7 @@ _Mutation_ refers to randomly altering an individual, such that it behaves sligh
 
 These two operations can improve fitness and maintain genetic diversity: mutation introduces diversity, allowing new solutions to be explored. Crossover avoids reducing genetic diversity by combining promising individuals together instead of allowing one fit individual to out-compete another.
 # To be, or not to be
-I'll use [Rust](https://www.rust-lang.org/) for my examples, but follow along in any language you like! The full code is available on [my GitHub](https://github.com/aelred/evolutionary-algorithms).
+I'll use [Rust](https://www.rust-lang.org/) for my examples, but follow along in any language you like! The full code is available on [my GitHub](https://github.com/aelred/evolutionary-algorithms/blob/master/examples/blog1.rs).
 
 It's said that [if you put a monkey in front of a typewriter, given enough time it will produce the complete works of Shakespeare](https://en.wikipedia.org/wiki/Infinite_monkey_theorem).
 
